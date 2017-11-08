@@ -1,0 +1,10 @@
+- Gestión de las notificaciones internas: Se usará Telegram para realizar
+comunicaciones internas sobre el proyecto.
+
+- Plan y mecanismos de reunión con el cliente: Se usará Telegram para comunicaciones online con el cliente, así como reuniones presenciales o no presenciales con el cliente. Para reuniones no presenciales usaremos la aplicación Ring.
+
+- Plan de ejecución de reuniones: En las reuniones realizadas tanto de manera presencial como no presencial, se eligirá a uno de los miembros del grupo para que redacte todos los puntos abordados durante la reunión. Posteriormente se realizará un acta de la reunión.
+
+- Plan de mantenimiento de la documentación del proyecto: Se utilizará un repositorio en GitHub para la gestión de la documentación en progreso.
+
+- Gestión del tiempo: Usaremos Toggl para gestionar el tiempo invertido en cada tarea.
