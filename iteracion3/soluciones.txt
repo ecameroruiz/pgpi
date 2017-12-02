@@ -1,0 +1,25 @@
+HU-01: Como cliente, quiero poder envíar mensajes con contenido, que estén agrupados por temas y/o categorías y cuyos servidores estén en Europa.
+(Prioridad: 1; Puntos de historia: 6)
+
+Telegram: Canales
+
+
+HU-02: Como cliente, quiero poder recuperar fácilmente el contenido enviado y recibido en los mensajes.
+(Prioridad: 2; Puntos de historia: 1)
+
+Telegram: Nube
+
+HU-03: Como cliente, quiero tener un sistema rápido de comunicación que nos permita mantener un histórico de conversaciones.
+(Prioridad: 1; Puntos de historia: 1)
+
+Telegram: Nube
+
+HU-04: Como cliente, quiero poder concretar una reunión presencial y/o telemática con un solo aviso, que contenga confirmación de asistencia.
+(Prioridad: 1; Puntos de historia: 8)
+
+Telegram: bot de encuestas
+
+HU-05: Como cliente, quiero poder envíar el guión y/o puntos del día de la reunión antes de la misma a todos los convocados.
+(Prioridad: 1; Puntos de historia: 3)
+
+Telegram: bot/canales
