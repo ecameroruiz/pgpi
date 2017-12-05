@@ -3,6 +3,10 @@ HU-01: Como cliente, quiero poder envíar mensajes con contenido, que estén agr
 
 Telegram: Canales
 
+Temas de canales:
+-Reuniones
+-Tareas -> tareas que existen y a quien se le asigna cada uno
+-General -> se tratan temas del dia a dia
 
 HU-02: Como cliente, quiero poder recuperar fácilmente el contenido enviado y recibido en los mensajes.
 (Prioridad: 2; Puntos de historia: 1)

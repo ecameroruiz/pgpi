@@ -1,8 +1,8 @@
-Corrección en la documentacion----> Elena
+Corrección en la documentacion----> Elena  (HECHO)
 
-Diccionario EDT------> juan carlos
+Diccionario EDT------> juan carlos (HECHO)
 
-Canales de telegram(agrupar por categorias)------> Hulio
+Canales de telegram(agrupar por categorias)------> juan carlos (HECHO) revisar
 
 Gestor de tareas que sus servidores esten dentro de Europa y que tenga integraciones (con telegram preferiblemente)---> Jose
 
@@ -10,7 +10,7 @@ Ver si lo boot de asistencia a reunion se pueden automatizar---> todos
 
 Repositorio que tenga los servidores en europa y que preferiblemente tenga integracion con telegram---->todos
 
-Actas planificación--->elena
+Actas planificación--->elena (HECHO)
 
 Actas Revisión / restrospectiva---- jose
 
